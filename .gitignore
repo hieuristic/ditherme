@@ -1,0 +1,5 @@
+bin/
+build/
+test_out/
+*.spv
+.DS_Store
